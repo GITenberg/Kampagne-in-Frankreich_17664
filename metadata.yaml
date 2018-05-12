@@ -1,0 +1,35 @@
+_repo: Kampagne-in-Frankreich_17664
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2006-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17664'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mainz (Rhineland-Palatinate, Germany) -- History -- Siege, 1793'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Revolution, 1789-1799'
+- !lcsh 'Autobiographies'
+- !lcc 'DD'
+- !lcc 'CT'
+title: Kampagne in Frankreich
+url: http://www.gutenberg.org/ebooks/17664
